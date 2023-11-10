@@ -1,5 +1,8 @@
 # Full Stack Airbnb Clone with Next.js 13
 
+**The link of the project:** 
+https://stay-away.vercel.app
+
 This is a repository for a Full Stack Airbnb Clone with Next.js 13 App Router: React, Tailwind, Prisma, MongoDB, NextAuth.
 
 Features:
